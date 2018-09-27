@@ -11,7 +11,7 @@ eureka:
     service-url:
       defaultZone: http://localhost:8762/eureka/
 env:
-  prod3.1
+  prod3.2
 girl:
   name: lili
-  age: 21
+  age: 22
